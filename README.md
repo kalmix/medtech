@@ -11,6 +11,7 @@
 
 Medtech is a responsive, modern web dashboard built with React and Vite.
 
+![Screenshot](https://ucarecdn.com/37dda8dd-fec7-4801-beb5-e512b3d400ab/Screenshot20241026211802.png)
 ## 📂 Folder Structure
 
 The project follows a modular structure for scalability and maintainability.
